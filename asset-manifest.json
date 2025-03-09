@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tabelline-game/static/css/main.6673148a.css",
-    "main.js": "/tabelline-game/static/js/main.91f3fd8f.js",
+    "main.js": "/tabelline-game/static/js/main.b389d616.js",
     "index.html": "/tabelline-game/index.html",
     "main.6673148a.css.map": "/tabelline-game/static/css/main.6673148a.css.map",
-    "main.91f3fd8f.js.map": "/tabelline-game/static/js/main.91f3fd8f.js.map"
+    "main.b389d616.js.map": "/tabelline-game/static/js/main.b389d616.js.map"
   },
   "entrypoints": [
     "static/css/main.6673148a.css",
-    "static/js/main.91f3fd8f.js"
+    "static/js/main.b389d616.js"
   ]
 }
